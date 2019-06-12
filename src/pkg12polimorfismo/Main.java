@@ -8,9 +8,15 @@ public class Main {
         Peixe p = new Peixe();
         Ave a = new Ave();
         
-        a.locomover();
-        p.locomover();
-        r.locomover();
+        Canguru c = new Canguru();
+        Cachorro k = new Cachorro();
+        Cobra j = new Cobra();       
+        Tartaruga t = new Tartaruga();   
+        Goldfish g = new Goldfish();
+        Arara e = new Arara();
+        
+        
+        
     }
     
 }
